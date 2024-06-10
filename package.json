@@ -1,0 +1,19 @@
+{
+  "name": "cspell-dictionary-template",
+  "description": "Custom dictionary for cspell",
+  "private": true,
+  "license": "UNLICENSED",
+  "version": "0.0.0",
+  "main": "src/main.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webdeveric/cspell-dictionary-template.git"
+  },
+  "author": {
+    "email": "eric@webdeveric.com",
+    "name": "Eric King"
+  },
+  "peerDependencies": {
+    "cspell": ">=8"
+  }
+}

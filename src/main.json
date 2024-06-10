@@ -1,0 +1,36 @@
+{
+  "dictionaries": [
+    "programming terms",
+    "identifiers",
+    "usernames",
+    "people",
+    "common filenames"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "programming terms",
+      "path": "./dictionary/programming-terms.txt",
+      "addWords": true
+    },
+    {
+      "name": "identifiers",
+      "path": "./dictionary/identifiers.txt",
+      "addWords": true
+    },
+    {
+      "name": "usernames",
+      "path": "./dictionary/usernames.txt",
+      "addWords": true
+    },
+    {
+      "name": "people",
+      "path": "./dictionary/people.txt",
+      "addWords": true
+    },
+    {
+      "name": "common filenames",
+      "path": "./dictionary/common-filenames.txt",
+      "addWords": true
+    }
+  ]
+}
